@@ -9,26 +9,9 @@
     {"id":7,"name":"Sophia Taylor","email":"sophia.taylor7@gmail.com","phone":"9783787007","address":"Italy","status":"Active"},
     {"id":8,"name":"David Miller","email":"david.miller8@gmail.com","phone":"9783787008","address":"Spain","status":"Inactive"},
     {"id":9,"name":"Olivia Davis","email":"olivia.davis9@gmail.com","phone":"9783787009","address":"Netherlands","status":"Active"},
-    {"id":10,"name":"William Martinez","email":"william.martinez10@gmail.com","phone":"9783787010","address":"Sweden","status":"Inactive"},
-    {"id":11,"name":"Ava Garcia","email":"ava.garcia11@gmail.com","phone":"9783787011","address":"Norway","status":"Active"},
-    {"id":12,"name":"Ethan Rodriguez","email":"ethan.rodriguez12@gmail.com","phone":"9783787012","address":"Finland","status":"Inactive"},
-    {"id":13,"name":"Mia Hernandez","email":"mia.hernandez13@gmail.com","phone":"9783787013","address":"Denmark","status":"Active"},
-    {"id":14,"name":"Alexander Lopez","email":"alex.lopez14@gmail.com","phone":"9783787014","address":"Switzerland","status":"Inactive"},
-    {"id":15,"name":"Isabella Gonzalez","email":"isabella.gonzalez15@gmail.com","phone":"9783787015","address":"Austria","status":"Active"},
-    {"id":16,"name":"Daniel Wilson","email":"daniel.wilson16@gmail.com","phone":"9783787016","address":"Belgium","status":"Inactive"},
-    {"id":17,"name":"Charlotte Moore","email":"charlotte.moore17@gmail.com","phone":"9783787017","address":"Ireland","status":"Active"},
-    {"id":18,"name":"Matthew Anderson","email":"matthew.anderson18@gmail.com","phone":"9783787018","address":"Portugal","status":"Inactive"},
-    {"id":19,"name":"Amelia Thomas","email":"amelia.thomas19@gmail.com","phone":"9783787019","address":"Greece","status":"Active"},
-    {"id":20,"name":"James White","email":"james.white20@gmail.com","phone":"9783787020","address":"Poland","status":"Inactive"},
-    {"id":21,"name":"Liam Scott","email":"liam.scott21@gmail.com","phone":"9783787021","address":"UK","status":"Active"},
-    {"id":22,"name":"Mason Young","email":"mason.young22@gmail.com","phone":"9783787022","address":"USA","status":"Inactive"},
-    {"id":23,"name":"Harper King","email":"harper.king23@gmail.com","phone":"9783787023","address":"Canada","status":"Active"},
-    {"id":24,"name":"Evelyn Wright","email":"evelyn.wright24@gmail.com","phone":"9783787024","address":"Australia","status":"Inactive"},
-    {"id":25,"name":"Aiden Hill","email":"aiden.hill25@gmail.com","phone":"9783787025","address":"Germany","status":"Active"},
-    {"id":26,"name":"Ella Green","email":"ella.green26@gmail.com","phone":"9783787026","address":"France","status":"Inactive"},
-    {"id":27,"name":"Logan Adams","email":"logan.adams27@gmail.com","phone":"9783787027","address":"Italy","status":"Active"},
-    {"id":28,"name":"Aria Baker","email":"aria.baker28@gmail.com","phone":"9783787028","address":"Spain","status":"Inactive"}
-   
+    {"id":10,"name":"William Martinez","email":"william.martinez10@gmail.com","phone":"9783787010","address":"Sweden","status":"Inactive"}
+  
   ]
 }
+
 
