@@ -48,8 +48,9 @@
     {"id":46,"name":"Madison Cook","email":"madison.cook46@gmail.com","phone":"9783787046","address":"France","status":"Inactive"},
     {"id":47,"name":"Samuel Morgan","email":"samuel.morgan47@gmail.com","phone":"9783787047","address":"Italy","status":"Active"},
     {"id":48,"name":"Aria Bell","email":"aria.bell48@gmail.com","phone":"9783787048","address":"Spain","status":"Inactive"},
-    {"id":49,"name":"Leo Murphy","email":"leo.murphy49@gmail.com","phone":"9783787049","address":"Netherlands","status":"Active"},
+    {"id":49,"name":"Leo Murphy","email":"leo.murphy49@gmail.com","phone":"9783787049","address":"Netherlands","status":"Active"}
    
   ]
 }
+
 
